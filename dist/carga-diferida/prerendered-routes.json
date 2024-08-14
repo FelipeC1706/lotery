@@ -1,0 +1,13 @@
+{
+  "routes": [
+    "/courses",
+    "/courses/list-courses",
+    "/courses/register-courses",
+    "/students",
+    "/students/matricula",
+    "/students/register-students",
+    "/teacher",
+    "/teacher/list-teacher",
+    "/teacher/login-teacher"
+  ]
+}
